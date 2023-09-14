@@ -1,3 +1,4 @@
+# commit dev
 # Tìm hiểu lệnh tcpdump trên Linux
 
 ### 1. tcpdump là gì? 
@@ -17,7 +18,7 @@ Nó cho phép khách hàng chặn và hiển thị các gói tin được truy�
 
 Ở Ubuntu, ta dùng lệnh
 
-```
+``` 
 sudo apt-get install tcpdump -y
 ```
 
